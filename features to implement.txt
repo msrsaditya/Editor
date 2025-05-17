@@ -7,3 +7,5 @@ improve performance -- everything should work at lightspeed, analyze critical bo
 Matplotlib not working
 We cannot work with local files/paths
 No interactive console (input() may not work as expected)
+
+minified code
