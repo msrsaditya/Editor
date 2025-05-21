@@ -1,6 +1,6 @@
 # Editor
 
-Write_Code™. Nothing Else.
+Write Code. That's All.
 
 After trying out virtually every online python interepreter, (and not liking any of them) I built my own.
 
